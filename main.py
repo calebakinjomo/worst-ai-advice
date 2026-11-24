@@ -2,6 +2,10 @@
 
 Writes one line of the worst possible advice an AI could give to
 $MAKEFUN_OUTPUT_DIR/entry.txt (no trailing newline).
+
+The single line is deliberately catastrophic advice (105 chars):
+storing every password in one public document. Keep it as one line
+and do not change the wording — the entry is judged verbatim.
 """
 
 import os
